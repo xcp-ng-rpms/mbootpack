@@ -2,7 +2,7 @@ Name:          mbootpack
 License:       GPL
 Group:         System Environment/Base
 Version:       v0.7a
-Release:       1
+Release:       1%{?dist}
 Summary:       Multiboot image builder
 
 Source0: https://code.citrite.net/rest/archive/latest/projects/XSU/repos/mbootpack/archive?at=v0.7a&prefix=mbootpack-v0.7a&format=tgz#/mbootpack-v0.7a.tar.gz
