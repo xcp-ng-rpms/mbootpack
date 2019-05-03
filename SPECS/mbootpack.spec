@@ -10,6 +10,7 @@ Source0: https://code.citrite.net/rest/archive/latest/projects/XSU/repos/mbootpa
 
 Provides: gitsha(https://code.citrite.net/rest/archive/latest/projects/XSU/repos/mbootpack/archive?at=v0.7a&prefix=mbootpack-v0.7a&format=tgz#/mbootpack-v0.7a.tar.gz) = 190be011b093b616af0fe7f0e01ba10f11b47fed
 
+BuildRequires: gcc
 
 %description
 This is a utility to take a multiboot kernel and modules and repackage
